@@ -3,8 +3,6 @@
 너무 귀찮아요
 ```
 
-<br/>
-
 ## 실행
 사용하기에 앞서, [데스크톱용 Chrome](https://www.google.com/intl/ko/chrome/) 및 [ChromeDriver](https://chromedriver.chromium.org/home)(이)가 필요합니다.
 ```
