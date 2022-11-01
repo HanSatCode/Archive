@@ -6,7 +6,7 @@
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/HanSatCode/Archive/tree/main/HuTaoBot"><img src="https://user-images.githubusercontent.com/50666621/184541713-db46cc20-3922-4f55-824c-6812732b631d.png" width="100px;"/><br/>HuTaoBot</a><br/><sub>Genshin Guide</sub></td>
-      <td align="center"><a href="https://github.com/HanSatCode/Archive/tree/main/Bandoku"><img src="https://user-images.githubusercontent.com/50666621/184539309-16c4c374-6d35-4392-a111-cc16c4cbd8d2.png" width="100px;"/><br/>BanDoku</a><br/><sub>Web Mecro</sub></td>
+      <td align="center"><a href="https://github.com/HanSatCode/Archive/tree/main/Bandoku"><img src="https://user-images.githubusercontent.com/50666621/184539309-16c4c374-6d35-4392-a111-cc16c4cbd8d2.png" width="100px;"/><br/>Bandoku</a><br/><sub>Web Mecro</sub></td>
     </tr>
   </tbody>
 </table>
