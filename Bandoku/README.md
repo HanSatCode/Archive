@@ -1,8 +1,7 @@
 [![Github](https://img.shields.io/github/license/hansatcode/Mendokusai?style=flat-square)](https://github.com/HanSatCode/Mendokusai/blob/main/LICENSE)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanSatCode%2FBandoku&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## 소개
-너무 귀찮아요.<br/>
+너무 귀찮아요<br/>
 
 ## 설치
 사용하기에 앞서, [데스크톱용 Chrome](https://www.google.com/intl/ko/chrome/) 및 [ChromeDriver](https://chromedriver.chromium.org/home)(이)가 필요합니다.
