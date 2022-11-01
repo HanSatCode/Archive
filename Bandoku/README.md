@@ -1,4 +1,4 @@
-[![Github](https://img.shields.io/github/license/hansatcode/Mendokusai?style=flat-square)](https://github.com/HanSatCode/Mendokusai/blob/main/LICENSE)
+# Bandoku
 
 ## 소개
 너무 귀찮아요<br/>
