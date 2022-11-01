@@ -10,7 +10,7 @@ slash = SlashCommand(bot, sync_commands=True, sync_on_cog_reload=True)
 
 srcPath = (__file__)
 srcPath = srcPath.replace("\\", "/")
-srcPath = srcPath.replace("HuTaoBot.py", "")
+srcPath = srcPath.replace("HuTaoBot_Current.py", "")
 
 token = ''
 
